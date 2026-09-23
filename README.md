@@ -1,16 +1,86 @@
-## Hi there 👋
+&lt;h1 align="center"&gt;Hi, I'm Chedi Kthiri&lt;/h1&gt;
+&lt;h3 align="center"&gt;AI & Data Science Engineer from Tunisia&lt;/h3&gt;
 
-<!--
-**KTHIRI-Chedi/KTHIRI-Chedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:chedi.kthiri@esprit.tn"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/YOUR_USERNAME?tab=repositories"&gt;
+    &lt;img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Computer Engineering student at **ESPRIT**, specializing in Data Science and AI. I build
+production-grade AI systems: GenAI pipelines, agentic workflows, and computer vision
+models deployed on edge devices.
+
+- Recently completed an AI internship at **Pixii Motors** (June 2026 - September 2026)
+- Team Leader of **AgriSmart**, an autonomous AgTech platform
+- First place, Wellness Innovation Hackathon 2023
+- Certified by NVIDIA (Deep Learning, Transformers NLP, Anomaly Detection) and Oracle (AI Foundations)
+
+---
+
+## Tech Stack
+
+**AI & Data:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Backend & DevOps:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+## Featured Projects
+
+### AgriSmart: Autonomous Agricultural Platform
+Autonomous AgTech platform combining IoT sensors, weather APIs, and satellite imagery
+with AI recommendations.
+- Trained a YOLOv8 model achieving **96% accuracy across 32 leaf disease types**, with
+  offline mobile inference for on-field diagnostics
+- Automated crop health assessment using Sentinel-2 imagery, NDVI, and K-Means clustering
+- Dockerized microservices separating IoT ingestion, backend processing, and decision automation
+`Python` `YOLOv8` `Docker` `FastAPI` `AWS`
+
+### AI Email Automation System (Pixii Motors)
+LangGraph pipeline automating 4 email-processing stages with human approval gates.
+- Classification, sentiment analysis, ChromaDB retrieval, and response drafting
+- Optimized LLM inference through model quantization, reducing generation time to 150 seconds
+- Integrated Gmail API, SMTP, and Telegram alerts into a React interface
+`Python` `LangGraph` `LangChain` `ChromaDB` `Docker`
+
+---
+
+## GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/&gt;
+&lt;/p&gt;
+
+---
+
+## Currently
+
+- Engineering degree at ESPRIT (Data Science & ML specialization)
+- Open to **6-month AI/Data Science internships starting January 2027**, international
