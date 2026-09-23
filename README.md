@@ -1,17 +1,17 @@
-&lt;h1 align="center"&gt;Hi, I'm Chedi Kthiri&lt;/h1&gt;
-&lt;h3 align="center"&gt;AI & Data Science Engineer from Tunisia&lt;/h3&gt;
+<h1 align="center">Hi, I'm Chedi Kthiri</h1>
+<h3 align="center">AI & Data Science Engineer from Tunisia</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/chedi-kthiri-464370289"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:chedi.kthiri@esprit.tn"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/KTHIRI-Chedi?tab=repositories"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://linkedin.com/in/chedi-kthiri-464370289">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:chedi.kthiri@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KTHIRI-Chedi?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -73,10 +73,13 @@ LangGraph pipeline automating 4 email-processing stages with human approval gate
 
 ## GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=KTHIRI-Chedi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTHIRI-Chedi&layout=compact&theme=tokyonight" alt="Top Languages"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KTHIRI-Chedi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTHIRI-Chedi&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
