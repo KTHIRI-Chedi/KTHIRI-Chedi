@@ -71,17 +71,6 @@ LangGraph pipeline automating 4 email-processing stages with human approval gate
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KTHIRI-Chedi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTHIRI-Chedi&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## Currently
 
 - Engineering degree at ESPRIT (Data Science & ML specialization)
