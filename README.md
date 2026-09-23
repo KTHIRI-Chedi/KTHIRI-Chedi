@@ -2,13 +2,13 @@
 &lt;h3 align="center"&gt;AI & Data Science Engineer from Tunisia&lt;/h3&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN"&gt;
+  &lt;a href="https://linkedin.com/in/chedi-kthiri-464370289"&gt;
     &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;
   &lt;/a&gt;
   &lt;a href="mailto:chedi.kthiri@esprit.tn"&gt;
     &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/&gt;
   &lt;/a&gt;
-  &lt;a href="https://github.com/YOUR_USERNAME?tab=repositories"&gt;
+  &lt;a href="https://github.com/KTHIRI-Chedi?tab=repositories"&gt;
     &lt;img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white"/&gt;
   &lt;/a&gt;
 &lt;/p&gt;
