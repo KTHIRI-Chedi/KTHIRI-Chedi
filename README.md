@@ -74,8 +74,8 @@ LangGraph pipeline automating 4 email-processing stages with human approval gate
 ## GitHub Stats
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=KTHIRI-Chedi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTHIRI-Chedi&layout=compact&theme=tokyonight" alt="Top Languages"/&gt;
 &lt;/p&gt;
 
 ---
